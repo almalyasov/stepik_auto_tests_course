@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-#QA
+#QA описание в файле readme
